@@ -11,6 +11,11 @@
 
 ProjectFlow is a full-stack web application for collaborative project management with real-time capabilities. It features user authentication, project creation and management, task tracking with a Kanban board interface, and team collaboration tools. The application follows a modern monorepo structure with a React frontend, Express.js backend, PostgreSQL database, and WebSocket integration for real-time updates.
 
+![WhatsApp Image 2025-08-15 at 01 08 11_0c343220](https://github.com/user-attachments/assets/6e184f44-30ed-4f63-9e6b-5f30d2041a1f)
+![WhatsApp Image 2025-08-15 at 01 08 10_f4129f10](https://github.com/user-attachments/assets/fa6f2709-5cb8-4c54-b842-fcde0da1c10c)
+![WhatsApp Image 2025-08-15 at 01 08 10_2a1602da](https://github.com/user-attachments/assets/f9e42454-87cc-46f1-8f89-aac7e771b527)
+![WhatsApp Image 2025-08-15 at 01 08 10_67813129](https://github.com/user-attachments/assets/9eed01a0-fcf7-4c67-b986-c969ba0eabd5)
+
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.
